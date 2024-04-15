@@ -57,7 +57,7 @@
 
 ### Programação estruturada (pelo programador)
 - Permite divisão em funções
-- Uso de estruturas de dados simples como tuplas e dicionários (mais informações em [Variáveis](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/2.Variaveis/Slide06.Tamanho_E_Forma.md))
+- Uso de estruturas de dados simples como tuplas e dicionários (mais informações em [Tipos](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/main/Diario_de_bordo.md#tipos))
 - Uso de comentários (Em linhas através de #Comentario e em partes através de ''' código ''')
 
 ### Orientada a objetos
