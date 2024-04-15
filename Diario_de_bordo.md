@@ -213,3 +213,10 @@
 - Acessado por chave (String)
 - Pode ser aninhado
 - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/Codigos_e_exemplos/3.Exemplo_Dicionario_aninhado.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/Codigos_e_exemplos/3.Exemplo_Dicionario_aninhado_saida_terminal.png)
+
+## Slide 9
+
+# Atribuição e controle
+## Slide 10
+
+## Slide 11
