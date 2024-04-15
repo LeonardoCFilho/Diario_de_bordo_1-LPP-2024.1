@@ -8,7 +8,7 @@
 - Multiplicidade de recursos é relativamente baixa em Python
   - Devido meu atual foco de estudo essa comparação é feita quando comparada a C, Go e Java
 - Considerações de sintaxe
-  - Nomenclatura de identificadores é flexível (mais informações em [Variáveis](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/2.Variaveis/Slide06.Tamanho_E_Forma.md))
+  - Nomenclatura de identificadores é flexível (mais informações em [Forma](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/tree/Codigos_e_exemplos))
 - Ortogonalidade
   - Em Python não há o uso de ponteiros, de modo que, todo o gerenciamento de memória e mapeamento é feito pelo compilador
 
