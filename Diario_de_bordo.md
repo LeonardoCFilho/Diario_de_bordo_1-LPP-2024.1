@@ -215,8 +215,47 @@
 - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/Codigos_e_exemplos/3.Exemplo_Dicionario_aninhado.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/Codigos_e_exemplos/3.Exemplo_Dicionario_aninhado_saida_terminal.png)
 
 ## Slide 9
+### Registro
+- Python permite a construção de classes ou uso de dicionárioss
+- Referenciação
+  - Usa-se a notação de ponto, começando com a extrutura mais externa até a atual
+- Operações
+  - Classes de objetos podem ser comparadas através de type()
+  - Métodos e/ou atributos podem ser comparados entre classes
+- Implementação
+  - Campos são armazanados em localizações adjacentes
+  - Nãao é possível usar aritmética de ponteiros
+- Array vs registros
+  - Enquanto dicionários arrays poderiam funcionar de maneira similar à, por exemplo, struct em C, qualquer outro dicionário, mesmo que de mesmo atributoss, devem ser feitos do 0
+  - O uso de classes, programação orientada a objetos, permite o uso de polimorfismo e herança
+ 
+### Union
+- Não há algum tipo equivalente a union em python
+- Entretanto, union é utilizado para o armazenamento de valores das variáveis do programa
 
-# Atribuição e controle
+### Ponteiro
+- Não permite a manipulação direta de memória alocada
+- Atribuição
+  - Funciona através do uso de igual (=) entre o ponteiro criado e a variável desejada
+    - Esse funcionamento é feito através de referências a objetos
+- Operações
+  - Uso direto do ponteiro como variável, já que não há possibilidade da manipulação de memória
+- Problemas
+  - Dangling Reference
+    - Não ocorre, pois a liberação de memória é feita pelo interpretador
+    - Desse modo, esse erro é apenas possível se o programador alterar a variável para qual o ponteiro aponta e esquecer essa mudança
+- Tipo referência
+  - Tem o mesmo funcionamento de outros tipos em Python
+
+### Verificação de tipo
+- Verificação dinâmica
+- Tipagem forte
+  - Também permite cast explícito
+- Equivalência de tipos
+  - Pode ser verificado com uma comparação com type()
+  - As estruturas, quando equivalentes, podem ser usadas como estruturas iguais
+
+# Atribuição e controle (112 páginas :|)
 ## Slide 10
 
 ## Slide 11
