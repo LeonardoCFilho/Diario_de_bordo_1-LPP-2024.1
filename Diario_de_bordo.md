@@ -255,7 +255,43 @@
   - Pode ser verificado com uma comparação com type()
   - As estruturas, quando equivalentes, podem ser usadas como estruturas iguais
 
-# Atribuição e controle (112 páginas :|)
+# Atribuição e estruturas de controle
 ## Slide 10
+### Introdução
+
+### Expressões aritméticas
+
+### Precedência de operadores
+
+### Associatividade de operadores
+
+### Parênteses
+
+### Expressões condicionais
+
+### Ordem de avaliação de operandos
+
+### Sobrecarga de operadores
+
+### Conversões de tipo
+
+### Expressões racionais 
+
+### Atribuição
 
 ## Slide 11
+### Introdução
+
+### Sentenças de seleção
+
+### Seleção múltipla
+
+### Sentença interativa
+
+### Loops controlados por contadores
+
+### Loops controlados logicamente
+
+### Controle definido por usuário
+
+### Iteração baseada em estrutura de dados
