@@ -257,20 +257,36 @@
 
 # Atribuição e estruturas de controle
 ## Slide 10
-### Introdução
-
-### Expressões aritméticas
-
 ### Precedência de operadores
-
+- Ordem de precedência em Python (Ordem decrescente)
+  - '++' (Potência)
+  - '*' (Multiplicação), '/' (Divisão) e '//' (Divisão inteira, não considera o resto)
+  - '+' (Adição) e '-' (Subtração)
+  - '<', '=', '>', '<=' ou '>=' (Comparação)
+  - not
+  - and
+  - or
+  
 ### Associatividade de operadores
+- No geral, associatividade pela esquerda
+- Excessão:
+  - Potência é pela direita
 
 ### Parênteses
+- Não é de uso obrigatório
+- Permite o aumento de precedência de certas operações em uma fórmula
 
 ### Expressões condicionais
+- if(): e else:
+  - As expressões deverão ter uma indentação maior do que o if(): 
+- Não há o uso de then após o if():
+- o else: será relacionado ao if(): mais próximo de mesma indentação
 
 ### Ordem de avaliação de operandos
-
+- Efeito colateral
+  - Em Python, uma função que retorna o valor diretamente na operação não altera o valor da variável em si diretamente
+  - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/Codigos_e_exemplos/4.Ordem_de_operandos.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/Codigos_e_exemplos/4.Ordem_de_operandos_saida_terminal.png)
+  
 ### Sobrecarga de operadores
 
 ### Conversões de tipo
