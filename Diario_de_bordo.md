@@ -324,17 +324,19 @@
   - Pode ser emulada pelo uso alinhado de if():, elif(): e else:
   - Pode ser emulada através de um dicionário, o qual chamaria as funções correspondentes
 
-### Sentença interativa
-- 
-
 ### Loops controlados por contadores
-- 
+- for():
+  - for i in range(1,6)
+  - Mesmo escopo da região local
 
 ### Loops controlados logicamente
-- 
+- while():
+  - while('Operação de resultado booleano'):
 
 ### Controle definido por usuário
-- 
+- Saída incondicional através do comando 'break'
 
 ### Iteração baseada em estrutura de dados
-- 
+- Iteração baseada retorna x valor da lista, tupla ou dicionário
+- Iteração baseada em estrutura de dados de classes criadas é possível
+  - O programador terá que implementar o método '_ _iter_ _()' 
