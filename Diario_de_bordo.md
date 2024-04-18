@@ -339,4 +339,4 @@
 ### Iteração baseada em estrutura de dados
 - Iteração baseada retorna x valor da lista, tupla ou dicionário
 - Iteração baseada em estrutura de dados de classes criadas é possível
-  - O programador terá que implementar o método '_ _iter_ _()' 
+  - O programador terá que implementar o método '__ iter __()' 
