@@ -281,6 +281,7 @@
   - As expressões deverão ter uma indentação maior do que o if(): 
 - Não há o uso de then após o if():
 - o else: será relacionado ao if(): mais próximo de mesma indentação
+- [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/Codigos_e_exemplos/1.Casos_de_erro.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/Codigos_e_exemplos/1.Casos_de_erro_saida_terminal.png)
 
 ### Ordem de avaliação de operandos
 - Efeito colateral
@@ -302,22 +303,34 @@
 - Conversão explícita pode ser usada através do prefixo do nome do tipo desejado entre aspas
 
 ### Expressões racionais 
+- 0 é usado para expressar falso
+- Operadores de comparação tem precedência menor do que aritméticos
+- Curto-cirtuito é usado nos operadores booleanos
+  - Operadores sem curto-circuito é feito pelo uso de '|' (or), '&' (and) e '~' (not), de maneira bitwise 
 
 ### Atribuição
+- Permite atribuição múltipla
+- Tem implementação para operadores de atribuição composto ('+=', '-=', etc)
+- Não há implementação para operadores de atribuição unário
 
 ## Slide 11
-### Introdução
-
 ### Sentenças de seleção
+- 
 
 ### Seleção múltipla
+- 
 
 ### Sentença interativa
+- 
 
 ### Loops controlados por contadores
+- 
 
 ### Loops controlados logicamente
+- 
 
 ### Controle definido por usuário
+- 
 
 ### Iteração baseada em estrutura de dados
+- 
