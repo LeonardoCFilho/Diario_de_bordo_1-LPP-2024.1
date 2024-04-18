@@ -262,7 +262,7 @@
   - '++' (Potência)
   - '*' (Multiplicação), '/' (Divisão) e '//' (Divisão inteira, não considera o resto)
   - '+' (Adição) e '-' (Subtração)
-  - '<', '=', '>', '<=' ou '>=' (Comparação)
+  - '<', '==', '!=' , '>', '<=' ou '>=' (Comparação)
   - not
   - and
   - or
@@ -288,8 +288,18 @@
   - [Exemplo](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/Codigos_e_exemplos/4.Ordem_de_operandos.py) e sua [saída no terminal](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/Codigos_e_exemplos/4.Ordem_de_operandos_saida_terminal.png)
   
 ### Sobrecarga de operadores
+- '+' é usado para soma e concatenação de strings
+- '*' é usado para a multiplicação e replicação de strings
+- '==' e '!=' pode verificar igualdade entre números e estrutural (tipos, classes, etc)
 
 ### Conversões de tipo
+- Conversão implícita será feita quando válido
+  - Modo misto
+    - Permitido em casos específicos:
+      - multiplicação entre int e string
+      - multiplicação entre int e float
+      - etc
+- Conversão explícita pode ser usada através do prefixo do nome do tipo desejado entre aspas
 
 ### Expressões racionais 
 
