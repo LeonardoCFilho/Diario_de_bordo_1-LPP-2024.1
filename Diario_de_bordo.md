@@ -316,9 +316,13 @@
 ## Slide 11
 ### Sentenças de seleção
 - [Demonstração do if():](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/main/Diario_de_bordo.md#expressões-condicionais)
+  - Não há o uso de endif ou expressões similares
+  - Não há o uso de 'else if():' e sim 'elif():'
 
 ### Seleção múltipla
-- 
+- Não há uma construção nativa
+  - Pode ser emulada pelo uso alinhado de if():, elif(): e else:
+  - Pode ser emulada através de um dicionário, o qual chamaria as funções correspondentes
 
 ### Sentença interativa
 - 
