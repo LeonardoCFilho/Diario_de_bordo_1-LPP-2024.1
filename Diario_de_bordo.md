@@ -315,7 +315,7 @@
 
 ## Slide 11
 ### Sentenças de seleção
-- 
+- [Demonstração do if():](https://github.com/LeonardoCFilho/Diario_de_bordo_1-LPP-2024.1/blob/main/Diario_de_bordo.md#expressões-condicionais)
 
 ### Seleção múltipla
 - 
